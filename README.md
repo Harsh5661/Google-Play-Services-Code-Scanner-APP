@@ -38,7 +38,7 @@ Note: Please update Google Play Services app on devices for seamless usage.
 
 ![App Screenshot](https://developers.google.com/static/ml-kit/images/auto_zoom.gif)
 
-[images/Demo.png](https://github.com/Harsh5661/Google-Play-Services-Code-Scanner-APP/blob/main/images/Demo.PNG)
+![Demo Image](https://github.com/Harsh5661/Google-Play-Services-Code-Scanner-APP/raw/main/images/Demo.PNG)
 
 ## Contributing
 
