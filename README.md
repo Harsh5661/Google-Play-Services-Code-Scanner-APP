@@ -38,7 +38,7 @@ Note: Please update Google Play Services app on devices for seamless usage.
 
 ![App Screenshot](https://developers.google.com/static/ml-kit/images/auto_zoom.gif)
 
-![Demo Image](images/img%20Demo.png)
+![Demo Image](images/Demo.png)
 
 ## Contributing
 
