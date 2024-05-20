@@ -41,7 +41,7 @@ Note: Please update Google Play Services app on devices for seamless usage.
 ![Demo Image](https://github.com/Harsh5661/Google-Play-Services-Code-Scanner-APP/raw/main/images/Demo.PNG)
 
 ## Contributing
-
+This sample is created in contribution with @Adhu-601
 Contributions are always welcome!
 
 You can use this sample to customize you're app.
