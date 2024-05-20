@@ -42,6 +42,7 @@ Note: Please update Google Play Services app on devices for seamless usage.
 
 ## Contributing
 This sample is created in contribution with @Adhu-601
+
 Contributions are always welcome!
 
 You can use this sample to customize you're app.
